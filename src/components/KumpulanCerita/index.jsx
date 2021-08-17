@@ -13,7 +13,7 @@ const KumpulanCerita = () => {
           <Link to="RawaPening">
           <button>
           <img
-          src={`https://1.bp.blogspot.com/-payJafuCLvA/YQ2B_EP0eJI/AAAAAAAAAfM/GB-01v2P-ikmcGSGQR0CQU8mSnT92GBYACLcBGAsYHQ/s150/sm-AMDTFDBK_1572611665%2B%25281%2529.png`}
+          src={`https://1.bp.blogspot.com/-29-EWJZaf7o/YRtUsZCv4_I/AAAAAAAAAkE/32YzoQre_qIb9yZQgsZiSHYhFxJDZt9sgCLcBGAsYHQ/s150/1.jpg`}
           alt="rawa pening"
         />
           </button>
