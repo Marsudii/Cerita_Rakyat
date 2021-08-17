@@ -10,7 +10,7 @@ const Home = () => {
           <p>Cerita Rakyat</p>
           <p>Indonesia</p>
         </h1>
-        <Link to="KumpulanCerita">
+        <Link to="kumpulancerita">
           <button>Kumpulan Cerita Rakyat</button>
         </Link>
         <br></br>
