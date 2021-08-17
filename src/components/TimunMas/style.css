@@ -10,4 +10,9 @@
     text-align: justify;
     text-justify: inter-word;
   }
+  .TimunMas img {
+    width: 100%;
+  max-width: 400px;
+  height: auto;
+  }
   
